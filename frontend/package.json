@@ -6,9 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "netlify": "netlify"
   },
-  
   "dependencies": {
     "@material-ui/core": "^4.12.4",
     "@material-ui/icons": "4.11.3",
